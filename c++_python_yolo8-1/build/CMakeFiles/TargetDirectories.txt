@@ -1,0 +1,3 @@
+/home/l/slam/cv/YOLO/YOLO8/ultralytics-1113/c++_python_yolo8-1/build/CMakeFiles/python_test.dir
+/home/l/slam/cv/YOLO/YOLO8/ultralytics-1113/c++_python_yolo8-1/build/CMakeFiles/edit_cache.dir
+/home/l/slam/cv/YOLO/YOLO8/ultralytics-1113/c++_python_yolo8-1/build/CMakeFiles/rebuild_cache.dir

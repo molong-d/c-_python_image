@@ -1,0 +1,11 @@
+
+纯c++ 调用conda   python文件
+
+
+使用时记得修改
+
+1 cmakelist的环境路径
+2 c++文件名
+3 c++文件中 python文件路径和文件名
+
+参考链接https://blog.csdn.net/HelloJinYe/article/details/107162527
